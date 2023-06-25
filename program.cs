@@ -6,7 +6,7 @@ using System.Net.Mail; // pour la partie mail
 using System.IO; // pour la communication en serie sur l'arduino
 using System.IO.Ports; // pour la meme chose
 
-namespace EmailSenderArduino // nom du fichier arduino sur mon ordinateur et du dossier dans lequel il est
+namespace sketch_jun25a // nom du fichier arduino sur mon ordinateur et du dossier dans lequel il est
 {
     class Program
     {
